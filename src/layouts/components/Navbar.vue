@@ -23,7 +23,7 @@ export default {
 <style lang="scss" scoped>
 .header {
   height: 100%;
-  background: #eee;
+  background: $--border-color-base;
   display: flex;
   justify-content: flex-end;
   align-items: center;
